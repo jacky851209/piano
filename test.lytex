@@ -1,0 +1,18 @@
+% set the starting point to middle C
+
+{
+	\time 4/4
+	g' e' e' f' 
+	d' d' c' d' 
+	e' f' g' g' 
+	g' g' e' e' 
+	f' d' d' c' 
+	e' g' g' e' 
+	d' d' d' d' 
+	d' e' f' e' 
+	e' e' e' e' 
+	f' g' g' e' 
+	e' f' d' d' 
+	c' e' g' g' 
+	c'' \break 
+}
